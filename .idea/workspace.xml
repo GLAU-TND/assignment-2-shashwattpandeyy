@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ea1cc69-eb10-4d70-926f-51cd17194c84" name="Default Changelist" comment="" />
+    <list default="true" id="7ea1cc69-eb10-4d70-926f-51cd17194c84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585579060486</updated>
-      <workItem from="1585579070726" duration="1665000" />
+      <workItem from="1585579070726" duration="1931000" />
     </task>
     <task id="LOCAL-00001" summary="Added removeZeroBacklogRecords method in MyCircularQueue class.">
       <created>1585586342965</created>
@@ -67,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585586342965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added removeZeroBacklogRecords method in MyCircularQueue class.">
+      <created>1585589231783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585589231783</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added removeZeroBacklogRecords method in MyCircularQueue class.">
+      <created>1585589429812</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585589429812</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,10 +94,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Added removeZeroBacklogRecords method in MyCircularQueue class." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1585589320032">
+    <state x="220" y="0" key="CommitChangelistDialog2" timestamp="1585589428767">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585589320032" />
+    <state x="220" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1585589428767" />
     <state width="1281" height="170" key="GridCell.Tab.0.bottom" timestamp="1585589311749">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
